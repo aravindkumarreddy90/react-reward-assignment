@@ -1,12 +1,6 @@
 
-Given a record of every transaction during a three month period, calculate the reward points earned for each customer per month and total.
-
-·         Use React JS
-·         Make up a data set to best demonstrate your solution
-·         Check solution into GitHub
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Server JSON file
+In src src/api/dataService.js which is having the to load on the app.
 
 ## Available Scripts
 
